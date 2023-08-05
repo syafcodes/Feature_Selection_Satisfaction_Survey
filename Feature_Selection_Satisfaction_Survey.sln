@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Feature_Selection_Satisfaction_Survey", "Feature_Selection_Satisfaction_Survey\Feature_Selection_Satisfaction_Survey.pyproj", "{800726E4-D122-45AA-A114-4C6AD8727D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{800726E4-D122-45AA-A114-4C6AD8727D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800726E4-D122-45AA-A114-4C6AD8727D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12EBAEE-0FF4-4B92-AFEA-CFB9569FAF8E}
+	EndGlobalSection
+EndGlobal
